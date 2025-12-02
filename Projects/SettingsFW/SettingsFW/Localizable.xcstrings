@@ -1,0 +1,102 @@
+{
+    "sourceLanguage" : "en",
+    "strings" : {
+        "settingsTVCUILabelEmail" : {
+            "comment" : "Email Address field label in the Settings view",
+            "extractionState" : "manual",
+            "localizations" : {
+                "en" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Email Address"
+                    }
+                },
+                "fr" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Email Address 🇫🇷"
+                    }
+                },
+                "it" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Email Address 🇮🇹 "
+                    }
+                }
+            }
+        },
+        "settingsTVCUILabelName" : {
+            "comment" : "Name field label in the Settings view",
+            "extractionState" : "manual",
+            "localizations" : {
+                "en" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Name"
+                    }
+                },
+                "fr" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Name 🇫🇷"
+                    }
+                },
+                "it" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Name 🇮🇹"
+                    }
+                }
+            }
+        },
+        "settingsTVCUILabelWebsite" : {
+            "comment" : "Website field label in the Settings view",
+            "extractionState" : "manual",
+            "localizations" : {
+                "en" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Website"
+                    }
+                },
+                "fr" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Website 🇫🇷"
+                    }
+                },
+                "it" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Website 🇮🇹"
+                    }
+                }
+            }
+        },
+        "settingsTVCUINavigationItemTitle" : {
+            "comment" : "Title for the Settings view",
+            "extractionState" : "manual",
+            "localizations" : {
+                "en" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Settings"
+                    }
+                },
+                "fr" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Settings 🇫🇷"
+                    }
+                },
+                "it" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Settings 🇮🇹"
+                    }
+                }
+            }
+        }
+    },
+    "version" : "1.1"
+}
