@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "30D5C8F8-1569-4ED6-97BD-33F25FA850D7",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:RecordingsFW.xcodeproj",
+        "identifier" : "47E9BE072E94252F00F7CCEE",
+        "name" : "RecordingsFWTests"
+      }
+    }
+  ],
+  "version" : 1
+}

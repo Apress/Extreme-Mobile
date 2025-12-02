@@ -1,0 +1,45 @@
+{
+  "configurations" : [
+    {
+      "id" : "06D35737-B552-41BD-AB09-4B02D32469B0",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:RecordingsFW.xcodeproj",
+      "identifier" : "47E9BE8B2E943B7A00F7CCEE",
+      "name" : "RecordingsApp"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:RecordingsFW.xcodeproj",
+        "identifier" : "47E9BEA02E943B7A00F7CCEE",
+        "name" : "RecordingsAppTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:RecordingsFW.xcodeproj",
+        "identifier" : "47E9BE072E94252F00F7CCEE",
+        "name" : "RecordingsFWTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:RecordingsFW.xcodeproj",
+        "identifier" : "47E9BEAA2E943B7A00F7CCEE",
+        "name" : "RecordingsAppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
