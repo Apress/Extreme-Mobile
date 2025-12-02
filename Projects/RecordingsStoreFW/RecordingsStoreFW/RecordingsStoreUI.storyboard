@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="24128" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Paq-k2-txI">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24063"/>
+    </dependencies>
+    <scenes>
+        <!--Recordings StoreVC-->
+        <scene sceneID="XXk-Ck-Lrx">
+            <objects>
+                <hostingController storyboardIdentifier="RecordingsStoreVC" id="Paq-k2-txI" customClass="RecordingsStoreVC" customModule="RecordingsStoreFW" customModuleProvider="target" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mXZ-8c-HKv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-676" y="39"/>
+        </scene>
+    </scenes>
+</document>

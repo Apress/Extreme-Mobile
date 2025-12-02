@@ -1,0 +1,23 @@
+[
+    {
+        "category": "Publishing",
+        "name": "Publish Recordings",
+        "price": 3.99,
+    "type": "publishRecordings" },
+    {
+        "category": "Recording",
+        "name": "2 Recording Tracks",
+        "price": 0.99,
+    "type": "twoTracks" },
+    {
+        "category": "Recording",
+        "name": "3 Recording Tracks",
+        "price": 1.99,
+    "type": "threeTracks" },
+    {
+        "category": "Recording",
+        "name": "4 Recording Tracks",
+        "price": 2.99,
+    "type": "fourTracks" }
+]
+
