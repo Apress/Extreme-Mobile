@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Theme.plist
+   ScratchTraxApp2
+
+   Created by Charlie Cocchiaro on 10/22/25.
+   Copyright (c) 2025 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>bodyFontName</key>
+        <string>SnellRoundhand</string>
+        <key>bodyFontSize</key>
+        <integer>24</integer>
+        <key>bodyFontColor</key>
+        <string>darkGray</string>
+        <key>titleFontName</key>
+        <string>SnellRoundhand-Bold</string>
+        <key>titleFontSize</key>
+        <integer>30</integer>
+        <key>buttonBaseBackgroundColor</key>
+        <string>systemTeal</string>
+        <key>buttonBaseForegroundColor</key>
+        <string>white</string>
+        <key>buttonCornerRadius</key>
+        <real>12</real>
+        <key>buttonStrokeColor</key>
+        <string>white</string>
+        <key>buttonStrokeWidth</key>
+        <real>2</real>
+        <key>buttonHighlightedColor</key>
+        <string>systemRed</string>
+        <key>buttonDisabledColor</key>
+        <string>systemGray</string>
+    </dict>
+</plist>
