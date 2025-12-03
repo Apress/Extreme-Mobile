@@ -1,6 +1,6 @@
-# Extreme Mobile Source Code
+# Source Code for Extreme Mobile
 
-This repository contains the Xcode project files and final source code built throughout [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks*](https://www.link.springer.com/book/10.1007/979-8-8688-2323-7) by Charlie Cocchiaro (Apress, 2026).
+This repository contains the Xcode project files and source code developed throughout [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks*](https://www.link.springer.com/book/10.1007/979-8-8688-2323-7) by Charlie Cocchiaro (Apress, 2026).
 
 [comment]: #cover
 ![Cover image](979-8-8688-2322-0.jpg)
