@@ -1,4 +1,4 @@
-# Apress Source Code
+# Extreme Mobile Source Code
 
 This repository contains the Xcode project files and final source code built throughout [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks*](https://www.link.springer.com/book/10.1007/979-8-8688-2323-7) by Charlie Cocchiaro (Apress, 2026).
 
