@@ -1,3 +1,7 @@
+# Issues
+
+The latest resolutions to all outstanding issues found in the book can be found under the [Issues](../../issues) section.
+
 # Source Code for Extreme Mobile
 
 This repository contains the Xcode project files and source code developed throughout [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks*](https://www.link.springer.com/book/10.1007/979-8-8688-2323-7) by Charlie Cocchiaro (Apress, 2026).
@@ -5,7 +9,7 @@ This repository contains the Xcode project files and source code developed throu
 [comment]: #cover
 ![Cover image](979-8-8688-2322-0.jpg)
 
-## To download the code:
+# To download the code:
 
 1. Open the repository on GitHub
 2. Confirm you are on the **Code** tab
@@ -13,14 +17,10 @@ This repository contains the Xcode project files and source code developed throu
 4. On the **right side of this section**, aligned with the top of the file list, locate the **Code** button
 5. Select the button to access cloning options and the option to download the repository as a ZIP file
 
-## Issues
-
-See outstanding book errors and resolutions under the [Issues](../../issues) section.
-
-## Releases
+# Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
-## Contributions
+# Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
