@@ -1,6 +1,6 @@
 # Issues
 
-The latest resolutions to all outstanding issues found in the book can be found under the [Issues](../../issues) section.
+Resolutions to all outstanding book issues can be found under the [Issues](../../issues) section.
 
 # Source Code for Extreme Mobile
 
