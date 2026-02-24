@@ -15,7 +15,7 @@ This repository contains the Xcode project files and source code developed throu
 
 ## Issues
 
-_**See outstanding book errors and resolutions under the Issues section**
+_See outstanding book errors and resolutions under the Issues section
 _
 ## Releases
 
