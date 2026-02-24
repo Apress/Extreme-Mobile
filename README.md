@@ -9,7 +9,7 @@ This repository contains the Xcode project files and source code developed throu
 [comment]: #cover
 ![Cover image](979-8-8688-2322-0.jpg)
 
-# To download the code:
+## To download the code:
 
 1. Open the repository on GitHub
 2. Confirm you are on the **Code** tab
