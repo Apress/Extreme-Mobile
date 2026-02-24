@@ -13,6 +13,10 @@ This repository contains the Xcode project files and source code developed throu
 4. On the **right side of this section**, aligned with the top of the file list, locate the **Code** button
 5. Select the button to access cloning options and the option to download the repository as a ZIP file
 
+## Issues
+
+See outstanding book errors and resolutions under the Issues section
+
 ## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
